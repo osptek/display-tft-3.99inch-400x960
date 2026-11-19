@@ -38,7 +38,7 @@
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
 | YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | ST7701SN-G5-1 | — | SPI/RGB | [完整资料](./versions/YDP399B002-V4/) |
-| YDP399XE002-V1 | — | AXS15260D | AXS15260D | RGB | [完整资料](./versions/YDP399XE002-V1/) |
+| YDP399XE003-V1 | — | AXS15260D | AXS15260D | MIPI | [完整资料](./versions/YDP399XE003-V1/) |
 
 ---
 

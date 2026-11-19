@@ -38,7 +38,7 @@ Repo id: `display-tft-3.99inch-400x960`
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
 | YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | ST7701SN-G5-1 | — | SPI/RGB | [Full docs](./versions/YDP399B002-V4/) |
-| YDP399XE002-V1 | — | AXS15260D | AXS15260D | RGB | [Full docs](./versions/YDP399XE002-V1/) |
+| YDP399XE003-V1 | — | AXS15260D | AXS15260D | MIPI | [Full docs](./versions/YDP399XE003-V1/) |
 
 ---
 

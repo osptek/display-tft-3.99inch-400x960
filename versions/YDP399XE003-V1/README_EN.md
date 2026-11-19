@@ -1,13 +1,13 @@
 <p align="left"><img alt="OSPTEK" src="../../images/logo.png" width="200" /></p>
 
-<h1 align="center">OSPTEK 3.99″ TFT Display 400×960 (YDP399XE002-V1)</h1>
+<h1 align="center">OSPTEK 3.99″ TFT Display 400×960 (YDP399XE003-V1)</h1>
 
-<p align="center"><b>TFT module · RGB · AXS15260D</b></p>
+<p align="center"><b>TFT module · MIPI · AXS15260D</b></p>
 
 <p align="center"><a href="./README.md">简体中文</a> | English · <a href="../../README_EN.md">Family index</a></p>
 
 <p align="center">
-  <img alt="Interface: RGB" src="https://img.shields.io/badge/Interface-RGB-27AE60?style=flat-square" />
+  <img alt="Interface: MIPI" src="https://img.shields.io/badge/Interface-MIPI-27AE60?style=flat-square" />
   <img alt="Driver: AXS15260D" src="https://img.shields.io/badge/Driver-AXS15260D-E7352C?style=flat-square" />
   <img alt="Touch: AXS15260D" src="https://img.shields.io/badge/Touch-AXS15260D-F39C12?style=flat-square" />
 </p>
@@ -29,9 +29,9 @@
 | Size | 3.99 inch |
 | Type | TFT |
 | Resolution | 400×960 |
-| Outline | 42.90 x 102.08 x 2.43 mm |
+| Outline | 42.9 x 102.08 x 2.43 mm |
 | Active area | 39.18 x 94.03 mm |
-| Interface | RGB |
+| Interface | MIPI |
 | Driver IC | AXS15260D |
 | Touch IC | AXS15260D |
 
@@ -42,16 +42,15 @@
 | Category | File |
 | ---- | ---- |
 | Datasheet | [`AXS15260D-S1_Datasheet_V1.2_20240306-客户.pdf`](./datasheets/AXS15260D-S1_Datasheet_V1.2_20240306-%E5%AE%A2%E6%88%B7.pdf) |
-| Datasheet | [`YDP399XE002-V1.pdf`](./datasheets/YDP399XE002-V1.pdf) |
-| CAD file | [`YDP399XE002-V1 Model (1).pdf`](./cad/YDP399XE002-V1%20Model%20%281%29.pdf) |
-| CAD file | [`YDP399XE002-V1.dwg`](./cad/YDP399XE002-V1.dwg) |
+| Datasheet | [`YDP399XE003-V1.pdf`](./datasheets/YDP399XE003-V1.pdf) |
+| CAD file | [`YDP399XE003-V1.dwg`](./cad/YDP399XE003-V1.dwg) |
 
 ## Repository layout
 
 ```text
 display-tft-3.99inch-400x960/ # repo root (nav: ../../README_EN.md; sample projects under root examples/)
 └── versions/
-    └── YDP399XE002-V1/        # full materials for this part number
+    └── YDP399XE003-V1/        # full materials for this part number
         ├── README.md
         ├── README_EN.md
         ├── osptek.yml
