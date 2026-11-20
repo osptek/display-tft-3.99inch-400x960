@@ -12,6 +12,8 @@
   <img alt="Touch: AXS15260D" src="https://img.shields.io/badge/Touch-AXS15260D-F39C12?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.99&quot; 400×960 TFT module product image" src="./images/PNG-1.png" width="640" /></p>
+
 ## Contents
 
 - [Specifications](#specifications)
